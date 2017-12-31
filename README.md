@@ -3,7 +3,7 @@
 Final project for Harvard's Applied Math 207: Stochastic Methods for
 Data Analysis, Inference, and Optimization, Spring 2016.
 
-This is a repost of a project that I (Hidenori Tanaka) worked on this project in collaboration with Xingchi Dai, Andy Shi, and Hyungmok Son.
+This is a repost of a project that I (Hidenori Tanaka) worked in collaboration with Xingchi Dai, Andy Shi, and Hyungmok Son.
 
 ---
 
