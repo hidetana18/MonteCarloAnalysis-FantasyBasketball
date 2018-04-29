@@ -1,7 +1,7 @@
 # AM207 Stochastic Methods for Fantasy Basketball
 
 Final project for Harvard's Applied Math 207: Stochastic Methods for
-Data Analysis, Inference, and Optimization, Spring 2016. This is a repost of a team project that I (Hidenori Tanaka) worked in collaboration with Xingchi Dai, Andy Shi, and Hyungmok Son.
+Data Analysis, Inference, and Optimization, Spring 2016. This is a REPOST of a team project that I (Hidenori Tanaka) worked in collaboration with Xingchi Dai, Andy Shi, and Hyungmok Son.
 
 <img src="https://github.com/hidetana18/MonteCarloAnalysis-FantasyBasketball/blob/master/Poster.png" width="600">
 
